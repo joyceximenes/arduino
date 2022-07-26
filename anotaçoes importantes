@@ -1,0 +1,6 @@
+  - pinMode(numPorta, I/O); = estado do mod
+  - digitalWrite(porta, estado); = escreve sinal digital
+    high = está ligado, alta frequencia passando 
+    low = desligada
+  - quando a porta está ligada, fornece energia (5v)
+  - delay = promove uma pausa, uma espera (em ms)
